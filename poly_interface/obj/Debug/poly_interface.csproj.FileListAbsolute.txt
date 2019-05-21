@@ -1,0 +1,10 @@
+D:\18.11.2314\#8\poly_interface\poly_interface\obj\Debug\poly_interface.csprojAssemblyReference.cache
+D:\18.11.2314\#8\poly_interface\poly_interface\obj\Debug\poly_interface.csproj.CoreCompileInputs.cache
+D:\18.11.2314\#8\poly_interface\poly_interface\bin\Debug\poly_interface.exe.config
+D:\18.11.2314\#8\poly_interface\poly_interface\bin\Debug\poly_interface.exe
+D:\18.11.2314\#8\poly_interface\poly_interface\bin\Debug\poly_interface.pdb
+D:\18.11.2314\#8\poly_interface\poly_interface\bin\Debug\Newtonsoft.Json.dll
+D:\18.11.2314\#8\poly_interface\poly_interface\bin\Debug\Newtonsoft.Json.xml
+D:\18.11.2314\#8\poly_interface\poly_interface\obj\Debug\poly_interface.csproj.CopyComplete
+D:\18.11.2314\#8\poly_interface\poly_interface\obj\Debug\poly_interface.exe
+D:\18.11.2314\#8\poly_interface\poly_interface\obj\Debug\poly_interface.pdb
